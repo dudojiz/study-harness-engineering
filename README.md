@@ -1,4 +1,4 @@
-# Learn Harness Engineering 4주 자율 스터디
+# Learn Harness Engineering 4주 자율 스터디 (2026.06.29 ~ 2026.07.26)
 
 `learn-harness-engineering` repo를 기준으로 4주 동안 진행하는 자율 스터디입니다.
 
@@ -10,6 +10,7 @@
 AI 코딩 에이전트를 더 잘 이해하고 활용하기 위해 Harness Engineering의 개념을 학습합니다.
 
 각자 매주 정해진 분량을 자유롭게 공부하고, 학습 내용을 Markdown 문서로 정리하여 PR로 공유합니다.
+
 스터디 기간 동안 서로의 PR에 자유롭게 comment를 남기며 피드백합니다.
 
 ## 진행 방식
@@ -34,7 +35,7 @@ AI 코딩 에이전트를 더 잘 이해하고 활용하기 위해 Harness Engin
 
 ## PR 제출 규칙
 
-매주 일요일까지 PR을 올립니다.
+본인 nickname으로 된 branch를 {github-id}-week01 형식으로 만들어서 매주 일요일까지 PR을 올립니다.
 
 PR에는 해당 주차에 학습한 3개의 강의 내용이 정리된 Markdown 파일 1개만 포함합니다.
 
