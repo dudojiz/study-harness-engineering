@@ -1,5 +1,7 @@
 # Learn Harness Engineering 4주 자율 스터디 (2026.06.29 ~ 2026.07.26)
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9c7cd4b5-394e-4656-b7a7-963950fec5a7" />
+
 `learn-harness-engineering` repo를 기준으로 4주 동안 진행하는 자율 스터디입니다.
 
 * 강의 페이지: https://walkinglabs.github.io/learn-harness-engineering/ko/
