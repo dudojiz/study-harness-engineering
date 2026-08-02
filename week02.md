@@ -22,7 +22,7 @@
 
 - 핵심 개념
   - 명령 비대화: 명령 파일이 컨텍스트 윈도의 10~15%를 초과 시, 읽기와 작업 추론에 쓸 예산은 잠식
-    - 600줄짜리 `AGENTS.md`는 10,000~20,000 토큰을 소비 = 에이전트가 시작 전에 128k 윈도의 8~15%가 소진되는 것
+    - 600줄짜리 `AGENTS.md`는 10,000 ~ 20,000 토큰을 소비 = 에이전트가 시작 전에 128k 윈도의 8 ~ 15%가 소진되는 것
   - 중간 손실 효과: 600줄 파일의 300번쨰 줄에 묻힌 중요한 제약은 사실상 무시된다
   - 명령 신호 대 잡음비: 파일 안의 명형 중 현재 작업과 관련된 비율
   - 라우팅 파일: 에이전트를 더 상세한 문서로 안내하는 것이 핵심 기능인 짧은 집입 파일 (50~200줄)
@@ -272,8 +272,8 @@ ex) Anthropic 장기 실행 에이전트 문서는 “핸드오프 파일”을 
 
 ---
 
--Initialization life cycle
-![initialization-life-cycle](images/initialization-life-cycle.png)
+- Initialization life cycle
+  ![initialization-life-cycle](images/initialization-life-cycle.png)
 
 # 초기화와 구현을 섞으면 생기는 문제
 
