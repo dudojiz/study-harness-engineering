@@ -89,8 +89,9 @@
   - 컴팩션 전략은 보통 후자를 보존하지만 전자를 잃는다
   - 다음 세션은 왜 그렇게 작성됐는지 알지 못하며, 의도적인 설계 결정을 최적화할 수도 있다
 
-![continuity1](images/continuity1.png)
-![continuity2](images/continuity2.png)
+- continuity
+  ![continuity1](images/continuity1.png)
+  ![continuity2](images/continuity2.png)
 
 - 핵심 개념
   - 컨텍스트 윈도는 유한
@@ -271,7 +272,8 @@ ex) Anthropic 장기 실행 에이전트 문서는 “핸드오프 파일”을 
 
 ---
 
-![initialization-life-cycle](./initialization-life-cycle.png)
+-Initialization life cycle
+![initialization-life-cycle](images/initialization-life-cycle.png)
 
 # 초기화와 구현을 섞으면 생기는 문제
 
